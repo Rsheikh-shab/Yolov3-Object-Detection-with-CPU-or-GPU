@@ -6,7 +6,8 @@ Real-time object detection using opencv with Yolo model.
 
 Open terminal and run:
 ```
-cd weights
+mkdir weight
+cd weight
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
 ### How to Run
